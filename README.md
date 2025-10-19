@@ -33,3 +33,8 @@ The workflow covers a complete **machine learning pipeline for image classificat
 1. Clone the repository:
    ```bash
    git clone <repository_url>
+## Dataset
+
+Download the **Cats vs Dogs** dataset from Kaggle: [https://www.kaggle.com/c/dogs-vs-cats](https://www.kaggle.com/c/dogs-vs-cats)  
+
+After downloading, extract the `train/` folder and place it in the project directory as `dataset/train/` so that the code can access the images correctly.
